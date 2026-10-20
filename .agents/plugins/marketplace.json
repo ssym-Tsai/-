@@ -1,0 +1,12 @@
+{
+  "name": "codex-link-tools",
+  "interface": { "displayName": "Codex 链接工具" },
+  "plugins": [
+    {
+      "name": "default-browser",
+      "source": { "source": "local", "path": "./plugins/default-browser" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Productivity"
+    }
+  ]
+}

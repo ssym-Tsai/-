@@ -1,0 +1,30 @@
+{
+  "name": "default-browser",
+  "version": "0.1.0-preview.1",
+  "description": "A plugin that opens web links from the ChatGPT desktop app in your default browser",
+  "author": {
+    "name": "Local workspace"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "用默认浏览器打开chatGPT桌面端网页的插件",
+        "shortDescription": "Windows：设置桌面端 Codex 环境的网页打开偏好，支持检查和恢复。",
+        "developerName": "Local workspace",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "composerIcon": "./assets/external-browser.svg",
+        "logo": "./assets/external-browser.svg",
+        "defaultPrompt": [
+          "让 Codex 的网页链接在默认浏览器打开",
+          "检查当前链接打开位置",
+          "恢复原来的链接打开设置"
+        ],
+        "longDescription": "A plugin that opens web links from the ChatGPT desktop app in your default browser. 当前实现操作 Windows 桌面端 Codex 环境的原生设置，提供启用、检查、恢复。实际点击行为需要完全重启客户端后验证，ChatGPT 其他聊天界面尚未验证。"
+      }
+    }
+  }
+}
