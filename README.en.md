@@ -26,6 +26,8 @@ Web links in the desktop app's Codex chat keep opening in the side panel? This p
 
    Fully quit and reopen the client again after enabling the preference.
 
+**or:** Send [this skill link](https://github.com/ssym-Tsai/-/tree/main/plugins/default-browser/skills/default-browser) to Codex and ask it to download and install the skill for you.
+
 ## Expected result
 
 **Click a web link → open it in your default browser.**

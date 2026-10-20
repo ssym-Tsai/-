@@ -1,2 +1,2 @@
-401b92fc23bdaf454783b4eaa04c4da9de281c56aca71c91aefdcbdd573898fb  chatgpt-default-browser-windows-v0.1.0-preview.1.zip
+4f4b8041528c67dd6e5c9683ad87c54ca1b3e9b46de8a52ce2554daf9e34860b  chatgpt-default-browser-windows-v0.1.0-preview.1.zip
 51a2a80014172cc7fd703176769402c913ee09808f01410eee52332b7dbfbce2  default-browser-skill-v0.1.0-preview.1.zip

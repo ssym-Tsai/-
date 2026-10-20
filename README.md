@@ -26,6 +26,8 @@
 
    启用后，再完全退出并重新打开客户端，让设置生效。
 
+**or：** 把[这个 skill 的链接](https://github.com/ssym-Tsai/-/tree/main/plugins/default-browser/skills/default-browser)发给 Codex，让它帮你下载并安装。
+
 ## 使用效果
 
 预期：**点击网页链接 → 在你的默认浏览器中打开。**
